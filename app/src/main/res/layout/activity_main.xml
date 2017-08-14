@@ -11,7 +11,7 @@
         tools:context="com.example.james.specieshunt.MainActivity">
 
     <TextView
-            android:text="Hello World!"
+            android:text="This will be for species hunt competition"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 </RelativeLayout>
